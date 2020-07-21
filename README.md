@@ -1,8 +1,8 @@
 # EA Workshops
 ## Schedule
-* [Workshop Schedule](EA workshop_2020-07.pdf)
+* [Workshop Schedule](EA-workshop-schedule.md)
 
-# Computer Aided Design (CAD)
+## Computer Aided Design (CAD)
 * **2D Raster**
   * [GIMP](https://www.gimp.org/)
     * [Tutorial](https://www.gimp.org/tutorials/)
