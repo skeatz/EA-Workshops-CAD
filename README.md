@@ -75,11 +75,23 @@
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
     * Encoding: [handbrake](https://handbrake.fr/), [MiroVideoConverter](http://www.mirovideoconverter.com/), [ffmpeg video conversion](http://academy.cba.mit.edu/classes/computer_design/video.html)
   
-**Assignment:**
-* Model (2D raster, vector, 3D) a possible final project.
-  * Document use of 2D raster software: scale, crop, resize
-  * Document use of 2D vector software
-  * Document use of 3D design software to model a possible final project
-* Compress your images, videos. Post them on your site.
-  * **Note** - you need to include your original design files in your documentation for this assignment.
+## Project
+Project must include the following:
+- 2D & 3D Design
+- 3D printed component
+- Laser cut component
+  - each group given 800mm x 600mm acrylic/plywood, 3mm thickness (to check)
+  - thick rubberband(s), thin rubberband(s)
+  - glue gun with glue stick (try to minimize use of this)
+<br/>
 
+Other instructions:
+- 3D printed & laser cut parts must be an integral part of your project
+- Design a 1-page poster (1920x1080 pixel) for your project
+- students to be divided into groups of 3 for the project
+<br/>
+
+Project must be based on one (or more) of the following themes:
+- Medieval Weapons (e.g. Trebuchet, Ballista)
+- Automata (e.g. geared clock, water wheel, kinetic sculpture)
+<br/>
