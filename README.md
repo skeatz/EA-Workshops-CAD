@@ -1,5 +1,6 @@
 # EA Workshops
-## [Schedule](EA workshop_2020-07.pdf)
+## Schedule
+* [Workshop Schedule](EA workshop_2020-07.pdf)
 
 # Computer Aided Design (CAD)
 * **2D Raster**
