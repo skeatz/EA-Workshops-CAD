@@ -2,7 +2,9 @@ EA-workshop-schedule
 
 # EA Vacation Workshops
 **Dates:** 21 – 23 Jul 2020
+
 **Time:** 9 am – 5 pm
+
 **Venue:** T1443
 
 **Training Schedule**
