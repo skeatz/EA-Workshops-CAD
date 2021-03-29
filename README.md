@@ -75,7 +75,20 @@
   * [ffmpeg](http://ffmpeg.org/), [avconv](https://libav.org/docs/avconv.html)
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
     * Encoding: [handbrake](https://handbrake.fr/), [MiroVideoConverter](http://www.mirovideoconverter.com/), [ffmpeg video conversion](http://academy.cba.mit.edu/classes/computer_design/video.html)
-  
+
+## Assignments
+- Lasercutting
+  - [Phone Stand](https://www.instructables.com/25D-Smart-Phone-Stand/)
+  - [Phone Stand](https://3axis.co/laser-cut/phone-stand/)
+  - [Decpratove Boxes](https://3axis.co/laser-cut/box/)
+  - [Valentine Gift Box](https://3axis.co/download/078yrpqo/)
+
+- 3D Printing
+  - [Chess Piece]()
+  - [Sketch Ex03](https://en.calameo.com/read/004987257fab6b0564037)
+  - [Sketch Ex05](https://en.calameo.com/read/004987257fab6b0564037)
+  - [Fidget Spinner (optional)]()
+
 ## Project
 Project must include the following:
 - 2D & 3D Design
