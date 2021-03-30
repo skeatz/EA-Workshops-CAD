@@ -80,7 +80,7 @@
 - Lasercutting
   - [Phone Stand](https://www.instructables.com/25D-Smart-Phone-Stand/)
   - [Phone Stand](https://3axis.co/laser-cut/phone-stand/)
-  - [Decpratove Boxes](https://3axis.co/laser-cut/box/)
+  - [Decorative Boxes](https://3axis.co/laser-cut/box/)
   - [Valentine Gift Box](https://3axis.co/download/078yrpqo/)
 
 - 3D Printing
