@@ -89,6 +89,9 @@
   - [Sketch Ex05](https://en.calameo.com/read/004987257fab6b0564037)
   - [Fidget Spinner (optional)]()
 
+- [EA Logo (B/W)](EALogo_Final.svg)
+- [EA Logo (Color)](EALogo_Final-Red.svg)
+
 ## Project
 Project must include the following:
 - 2D & 3D Design
